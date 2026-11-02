@@ -1,0 +1,6 @@
+requests
+streamlit
+python-dotenv
+pymupdf
+chromadb
+sentence-transformers
